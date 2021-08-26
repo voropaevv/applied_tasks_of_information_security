@@ -25,7 +25,7 @@ Server: nginx
 
 **Пример работы:**
 
-![](.gifs/example_of_work_1.gif)
+![Пример работы сканера портов](.gifs/example_of_work_1.gif)
 
 
 
@@ -75,7 +75,7 @@ Server: nginx
 
 **Пример работы:**
 
-![](.gifs/example_of_work_2.gif)
+![Пример работы подбора похожих доменов](.gifs/example_of_work_2.gif)
 
 
 
